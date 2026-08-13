@@ -1,4 +1,4 @@
-package Seção4;
+package Secao4;
 
 import java.util.Locale;
 

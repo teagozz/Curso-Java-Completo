@@ -1,4 +1,4 @@
-package Seção4;
+package Secao4;
 
 public class Aula32_ProcessamentoDados_Casting {
     public static void main(String[] args) {
@@ -33,7 +33,7 @@ public class Aula32_ProcessamentoDados_Casting {
         c = 2;
 
         // ==================================================
-        // CASTING = CONVERSÃO EXPLÍCITA DOS VALORES, OPERAÇÃO FEITA ABAIXO  É UM EXEMPLO DISSO
+        // CASTING = CONVERSÃO EXPLÍCITA DOS VALORES, OPERAÇÃO FEITA ABAIXO É UM EXEMPLO DISSO
         // PASSA UM VALOR DE UM TIPO DE DADO PARA OUTRO
         res = (double) a / c;
         System.out.println(res);
