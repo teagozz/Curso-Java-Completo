@@ -1,4 +1,4 @@
-package Secao4;
+package Secao4_Estrutura_Sequencial;
 
 public class Aula35_FuncoesMatematicas {
     public static void main(String[] args) {
